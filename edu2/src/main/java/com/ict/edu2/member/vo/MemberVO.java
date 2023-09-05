@@ -13,6 +13,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 // 모든 인자가 들어있는 생성자 자동 생성
 @AllArgsConstructor
-public class VO {
+public class MemberVO {
     private String m_id , m_pw , m_name , m_age , m_reg;
 }
